@@ -78,6 +78,92 @@ print(f"Hello World! I'm {developer.name} 👨‍💻")
 
 ---
 
+## 💼 Professional Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <div align="center">
+          <img src="https://img.shields.io/badge/Associate%20Software%20Engineer-00D2FF?style=for-the-badge&logo=code&logoColor=white" />
+          <h3>🚀 Funavry Technologies</h3>
+          <p><strong>May 2024 - Present</strong></p>
+          <ul align="left">
+            <li>🤖 Fine-tuned Stable Diffusion & LLMs using LoRA optimization</li>
+            <li>🏗️ Built full-stack backend systems with FastAPI + MySQL</li>
+            <li>🔍 Developed RAG chatbots with Azure Semantic Search</li>
+            <li>☁️ Deployed services on Azure, GCP, and AWS VMs</li>
+            <li>🎯 Specialized in prompt engineering & API integrations</li>
+          </ul>
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <img src="https://img.shields.io/badge/Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+          <h3>📱 Freelance (Remote)</h3>
+          <p><strong>Sep 2022 - Present</strong></p>
+          <ul align="left">
+            <li>📲 Designed cross-platform mobile apps for iOS & Android</li>
+            <li>🔥 Expertise in Dart, Firebase, and third-party APIs</li>
+            <li>🤖 Integrated AI features into mobile applications</li>
+            <li>⚡ Optimized app architecture and performance</li>
+            <li>🎨 Delivered scalable mobile solutions</li>
+          </ul>
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <img src="https://img.shields.io/badge/AI%20Developer%20Intern-A855F7?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+          <h3>🧠 Multiple Companies</h3>
+          <p><strong>Aug 2023 - Sep 2023</strong></p>
+          <ul align="left">
+            <li>🐍 Utilized Python & Selenium for web scraping</li>
+            <li>🎯 Performed advanced prompt engineering</li>
+            <li>🤗 Fine-tuned Hugging Face models</li>
+            <li>💡 Implemented AI solutions for admin teams</li>
+            <li>📊 Delivered tailored AI-driven strategies</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <img src="https://img.shields.io/badge/Pine%20Script%20Developer-FF6B6B?style=for-the-badge&logo=tradingview&logoColor=white" />
+          <h3>📈 Supreme Solutions</h3>
+          <p><strong>Nov 2022 - Dec 2022</strong></p>
+          <ul align="left">
+            <li>📊 Created custom Pine Scripts for trading clients</li>
+            <li>🎯 Delivered tailored trading strategies</li>
+            <li>📈 Built technical analysis tools</li>
+            <li>⚡ Met specific client requirements</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <img src="https://img.shields.io/badge/Education-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black" />
+          <h3>🎓 Air University, Islamabad</h3>
+          <p><strong>Graduated 2024</strong></p>
+          <ul align="left">
+            <li>🤖 Bachelor's in Artificial Intelligence</li>
+            <li>🏆 Specialized in ML & Deep Learning</li>
+            <li>📚 Strong foundation in AI algorithms</li>
+            <li>🔬 Research in computer vision & NLP</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🏆 Featured Projects
 
 <div align="center">
